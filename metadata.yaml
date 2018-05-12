@@ -1,0 +1,46 @@
+_repo: The-N-rnberg-Stove_20997
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, Maria L.
+    - Kirk, M. L. (Maria Louise)
+    birthdate: 1860
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+covers:
+- cover_type: archival
+  image_path: 20997-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - De la Ramée, Louisa
+    - De la Ramee, Louise
+    - Ramé, Marie Louise
+    - Uida
+    - Ramée, Maria Louise
+    - De La Rame, Louisa
+    - De la Ramée, Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2007-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austria -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Stoves -- Juvenile fiction'
+title: The Nürnberg Stove
+url: http://www.gutenberg.org/ebooks/20997
